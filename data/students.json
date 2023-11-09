@@ -1,0 +1,660 @@
+{
+    "studentsData": [
+        {
+            "nrp": "5015221001",
+            "name": "Nur Azizah"
+        },
+        {
+            "nrp": "5015221002",
+            "name": "Raynaldi Samuel Sondang Soritua Siregar"
+        },
+        {
+            "nrp": "5015221003",
+            "name": "Yahya Ayasy"
+        },
+        {
+            "nrp": "5015221004",
+            "name": "Muhammad Rafli Al Ghiffari Ferani"
+        },
+        {
+            "nrp": "5015221005",
+            "name": "Zaqirov Sheva Aidhatullah"
+        },
+        {
+            "nrp": "5015221006",
+            "name": "Muhammad Fairdy Dermawan"
+        },
+        {
+            "nrp": "5015221007",
+            "name": "Aurelia Rachel Adeasmara"
+        },
+        {
+            "nrp": "5015221008",
+            "name": "Sahrila Nanda Tabranist"
+        },
+        {
+            "nrp": "5015221009",
+            "name": "Marsha Angel Divana"
+        },
+        {
+            "nrp": "5015221010",
+            "name": "Carla Angelyn Setiawan"
+        },
+        {
+            "nrp": "5015221011",
+            "name": "Kezia Maharani"
+        },
+        {
+            "nrp": "5015221012",
+            "name": "Tazqy Aulia Busro"
+        },
+        {
+            "nrp": "5015221013",
+            "name": "Danisha Harlan"
+        },
+        {
+            "nrp": "5015221014",
+            "name": "Firza Radityo Fadilah"
+        },
+        {
+            "nrp": "5015221015",
+            "name": "Aisyah Arum Puspita"
+        },
+        {
+            "nrp": "5015221016",
+            "name": "Della Febrianti"
+        },
+        {
+            "nrp": "5015221017",
+            "name": "Meydia Sabilla"
+        },
+        {
+            "nrp": "5015221018",
+            "name": "Rhanantya Relintang Putri Agung"
+        },
+        {
+            "nrp": "5015221019",
+            "name": "Evana Auliyaa Mufarrihana"
+        },
+        {
+            "nrp": "5015221020",
+            "name": "Abel Fiaunillah Abrori"
+        },
+        {
+            "nrp": "5015221021",
+            "name": "Jasmin Keysha Kurnia Fathonahamdi"
+        },
+        {
+            "nrp": "5015221023",
+            "name": "Athiyah Lukyandra Putri"
+        },
+        {
+            "nrp": "5015221024",
+            "name": "Jennita Aulia Andriansari"
+        },
+        {
+            "nrp": "5015221025",
+            "name": "Adila Jihan Naura"
+        },
+        {
+            "nrp": "5015221026",
+            "name": "Tarisa Adelya Safiera"
+        },
+        {
+            "nrp": "5015221027",
+            "name": "Catherin Febriana Marpaung"
+        },
+        {
+            "nrp": "5015221028",
+            "name": "Arif Musyaffat"
+        },
+        {
+            "nrp": "5015221029",
+            "name": "Vitta Ratna Sari"
+        },
+        {
+            "nrp": "5015221030",
+            "name": "Melinda Aulia Putri"
+        },
+        {
+            "nrp": "5015221031",
+            "name": "Muhammad Yusuf Affandi"
+        },
+        {
+            "nrp": "5015221032",
+            "name": "Ellya Rahmah"
+        },
+        {
+            "nrp": "5015221033",
+            "name": "Amelia Aderay Pertiwi"
+        },
+        {
+            "nrp": "5015221034",
+            "name": "Bella Dwi Anggun Kusuma"
+        },
+        {
+            "nrp": "5015221035",
+            "name": "Neshya Aulia Rachma"
+        },
+        {
+            "nrp": "5015221036",
+            "name": "Dona Marista"
+        },
+        {
+            "nrp": "5015221037",
+            "name": "Roy Aditya Firmansyah"
+        },
+        {
+            "nrp": "5015221038",
+            "name": "Gracia Venly Stephanie"
+        },
+        {
+            "nrp": "5015221039",
+            "name": "Zindy Rayyana Mumtazah"
+        },
+        {
+            "nrp": "5015221040",
+            "name": "Aryasatya Bagus Ardiyanto"
+        },
+        {
+            "nrp": "5015221041",
+            "name": "Rezky Fathir Dwidya Sigit"
+        },
+        {
+            "nrp": "5015221042",
+            "name": "Neyza Fauziya Ajryanie"
+        },
+        {
+            "nrp": "5015221044",
+            "name": "Muhammad Advan Adi Laksa"
+        },
+        {
+            "nrp": "5015221045",
+            "name": "Nadyah Nur 'ayuni"
+        },
+        {
+            "nrp": "5015221046",
+            "name": "Cindy Meylani"
+        },
+        {
+            "nrp": "5015221047",
+            "name": "Lintang Yunitawati"
+        },
+        {
+            "nrp": "5015221048",
+            "name": "Mufiz Alfatiy Ahmad"
+        },
+        {
+            "nrp": "5015221049",
+            "name": "Mumtadzah"
+        },
+        {
+            "nrp": "5015221050",
+            "name": "Dichen Octoria Nainggolan"
+        },
+        {
+            "nrp": "5015221051",
+            "name": "Bimo Suryo Hartono"
+        },
+        {
+            "nrp": "5015221052",
+            "name": "Ariq Fathurrahman Adrian"
+        },
+        {
+            "nrp": "5015221053",
+            "name": "Jea Amelia Gronina Rehulina Ginting"
+        },
+        {
+            "nrp": "5015221054",
+            "name": "Jesica Ester Nathania Siregar"
+        },
+        {
+            "nrp": "5015221055",
+            "name": "Risma Aulia Putri"
+        },
+        {
+            "nrp": "5015221056",
+            "name": "Raihan Iman Nugroho"
+        },
+        {
+            "nrp": "5015221059",
+            "name": "Nailah Fiorenza Fitriyah"
+        },
+        {
+            "nrp": "5015221060",
+            "name": "Ema Rose Laily"
+        },
+        {
+            "nrp": "5015221061",
+            "name": "Hanifah Noer Baiti"
+        },
+        {
+            "nrp": "5015221063",
+            "name": "Muh. Aqsha Aziizul Hakim"
+        },
+        {
+            "nrp": "5015221064",
+            "name": "Liveta Khaylila Rahma"
+        },
+        {
+            "nrp": "5015221065",
+            "name": "Raissa Nina Nathania"
+        },
+        {
+            "nrp": "5015221066",
+            "name": "Raditya Nadhif Rachmadi"
+        },
+        {
+            "nrp": "5015221067",
+            "name": "Muhammad Bintang Al Kahfi"
+        },
+        {
+            "nrp": "5015221068",
+            "name": "Ruhillah Khadijah El Basri"
+        },
+        {
+            "nrp": "5015221069",
+            "name": "Adinda Aibel Syafa"
+        },
+        {
+            "nrp": "5015221070",
+            "name": "Sabhina Putri Maharani"
+        },
+        {
+            "nrp": "5015221071",
+            "name": "Ahnaf Maheswara Habibullah"
+        },
+        {
+            "nrp": "5015221072",
+            "name": "Galih Nayawiba Dzulfikar"
+        },
+        {
+            "nrp": "5015221073",
+            "name": "Reyvaldi Gymnastiar"
+        },
+        {
+            "nrp": "5015221074",
+            "name": "Imelliya Iswara"
+        },
+        {
+            "nrp": "5015221076",
+            "name": "M. Dzaky Afifuddin Aliy Rahman"
+        },
+        {
+            "nrp": "5015221077",
+            "name": "Haezah Kumaili"
+        },
+        {
+            "nrp": "5015221078",
+            "name": "Devon Leonardo Hekar"
+        },
+        {
+            "nrp": "5015221079",
+            "name": "Khairunnisa Na'illahlail Arisanti"
+        },
+        {
+            "nrp": "5015221080",
+            "name": "Ditta Sani Ittakullah"
+        },
+        {
+            "nrp": "5015221081",
+            "name": "Muhammad Haykal Nadif"
+        },
+        {
+            "nrp": "5015221082",
+            "name": "Tsabita Bill Qurubat"
+        },
+        {
+            "nrp": "5015221083",
+            "name": "Prasasti Nur Rahmania Ramadani"
+        },
+        {
+            "nrp": "5015221084",
+            "name": "Lintang Jenar Satria Akbar"
+        },
+        {
+            "nrp": "5015221085",
+            "name": "Aulia Luthfi Irmawati"
+        },
+        {
+            "nrp": "5015221086",
+            "name": "Raditya Putra Pandhadha"
+        },
+        {
+            "nrp": "5015221087",
+            "name": "Holy Regina Hartanto"
+        },
+        {
+            "nrp": "5015221088",
+            "name": "M. Akbar Maulana"
+        },
+        {
+            "nrp": "5015221089",
+            "name": "Iqbal Syauqi Ilmi"
+        },
+        {
+            "nrp": "5015221090",
+            "name": "Rasya Farah Wicaksana"
+        },
+        {
+            "nrp": "5015221091",
+            "name": "Charvenda Adiswara Dewita Putri"
+        },
+        {
+            "nrp": "5015221092",
+            "name": "Easy Rahmatia"
+        },
+        {
+            "nrp": "5015221093",
+            "name": "Eunike Dorothea Pongsilurang Tangkedatu"
+        },
+        {
+            "nrp": "5015221094",
+            "name": "Achmad Rayhan"
+        },
+        {
+            "nrp": "5015221095",
+            "name": "Priyatama Febrian Nurachman"
+        },
+        {
+            "nrp": "5015221096",
+            "name": "Ariqah Zahrani Putri"
+        },
+        {
+            "nrp": "5015221097",
+            "name": "Delpiero Anjuan Gerry Tampubolon"
+        },
+        {
+            "nrp": "5015221098",
+            "name": "Fathan Dikha Muttaqin"
+        },
+        {
+            "nrp": "5015221099",
+            "name": "Rizki Akbar Ramadhan"
+        },
+        {
+            "nrp": "5015221100",
+            "name": "Dinara Furqani"
+        },
+        {
+            "nrp": "5015221101",
+            "name": "Sania Salsabila Tanjung"
+        },
+        {
+            "nrp": "5015221102",
+            "name": "Anang Fathul Bari Romadhon"
+        },
+        {
+            "nrp": "5015221103",
+            "name": "Mutiah Fahriyyah Dani"
+        },
+        {
+            "nrp": "5015221104",
+            "name": "Meitasari Agustin"
+        },
+        {
+            "nrp": "5015221105",
+            "name": "Rizky Widyadhana Mahardika"
+        },
+        {
+            "nrp": "5015221106",
+            "name": "Rama Abiyyu Edvienanda"
+        },
+        {
+            "nrp": "5015221107",
+            "name": "Dimas Panji Satrio"
+        },
+        {
+            "nrp": "5015221108",
+            "name": "Dandy Raditya Putra"
+        },
+        {
+            "nrp": "5015221109",
+            "name": "Nabil Makarim"
+        },
+        {
+            "nrp": "5015221110",
+            "name": "Aurellia Nasywa Safitri"
+        },
+        {
+            "nrp": "5015221111",
+            "name": "Caesarika Pramesthi Dewi"
+        },
+        {
+            "nrp": "5015221112",
+            "name": "Ariesta Bramantyo Syatya Putra"
+        },
+        {
+            "nrp": "5015221113",
+            "name": "Bagus Satya Pratama Yahya"
+        },
+        {
+            "nrp": "5015221114",
+            "name": "Hafizh Al-Nadzari Fikri"
+        },
+        {
+            "nrp": "5015221115",
+            "name": "Muhammad Ghozali Umaro"
+        },
+        {
+            "nrp": "5015221116",
+            "name": "Gusti Ayu Putu Jessica Pradnya Paramitha"
+        },
+        {
+            "nrp": "5015221117",
+            "name": "Diandra Anastya Syalaisha"
+        },
+        {
+            "nrp": "5015221118",
+            "name": "Ida Bagus Made Khrisna Dharma Laksana"
+        },
+        {
+            "nrp": "5015221119",
+            "name": "Raihan Putra Ramadhan"
+        },
+        {
+            "nrp": "5015221120",
+            "name": "Ratna Asih Ramadhani"
+        },
+        {
+            "nrp": "5015221121",
+            "name": "Rafif Firjatullah"
+        },
+        {
+            "nrp": "5015221122",
+            "name": "Adinda"
+        },
+        {
+            "nrp": "5015221123",
+            "name": "Hazidien Ramadhan Utomo"
+        },
+        {
+            "nrp": "5015221124",
+            "name": "Silmi Azizah"
+        },
+        {
+            "nrp": "5015221125",
+            "name": "Parama Naradipa"
+        },
+        {
+            "nrp": "5015221126",
+            "name": "Sulung Amiluhur Sumadijaya"
+        },
+        {
+            "nrp": "5015221128",
+            "name": "Alandra Devi Surya Putri Aziza"
+        },
+        {
+            "nrp": "5015221129",
+            "name": "Shafira Nurida Waskito"
+        },
+        {
+            "nrp": "5015221130",
+            "name": "Safira Pratiwi Putri Indrawati"
+        },
+        {
+            "nrp": "5015221131",
+            "name": "Rosdiana Adiningrum"
+        },
+        {
+            "nrp": "5015221132",
+            "name": "Muhammad Rizky Andriansyah"
+        },
+        {
+            "nrp": "5015221133",
+            "name": "Aulia Rizky Chairunnisa"
+        },
+        {
+            "nrp": "5015221134",
+            "name": "Mohammad Kaisar Pamungkas"
+        },
+        {
+            "nrp": "5015221135",
+            "name": "Moch. Najib Mudzoffar"
+        },
+        {
+            "nrp": "5015221136",
+            "name": "Rayhan Nail Andhika"
+        },
+        {
+            "nrp": "5015221137",
+            "name": "Zaidaan Thoriq Lesdiputra"
+        },
+        {
+            "nrp": "5015221138",
+            "name": "Lila Mirna Tri Amaliyah"
+        },
+        {
+            "nrp": "5015221139",
+            "name": "Syauqina Bae Gapaita Fildzah"
+        },
+        {
+            "nrp": "5015221140",
+            "name": "Andhika Priyadiputra"
+        },
+        {
+            "nrp": "5015221141",
+            "name": "Rabbayani Daniswara"
+        },
+        {
+            "nrp": "5015221142",
+            "name": "Ghassani Ramadhan"
+        },
+        {
+            "nrp": "5015221143",
+            "name": "Vaniaretha Salsabila Putri"
+        },
+        {
+            "nrp": "5015221144",
+            "name": "Lazuardini Dinda Aaqilah"
+        },
+        {
+            "nrp": "5015221145",
+            "name": "Tiffany Lucia Ayu Silitonga"
+        },
+        {
+            "nrp": "5015221146",
+            "name": "Kayla Carissa Pasha"
+        },
+        {
+            "nrp": "5015221147",
+            "name": "Naufal Adrian Ramadhan"
+        },
+        {
+            "nrp": "5015221148",
+            "name": "Nanda Anindita Kirana Salzabillah"
+        },
+        {
+            "nrp": "5015221150",
+            "name": "Muhammad Farras Akram"
+        },
+        {
+            "nrp": "5015221151",
+            "name": "Tri Agnes Maharani"
+        },
+        {
+            "nrp": "5015221152",
+            "name": "Rafly Risaldi"
+        },
+        {
+            "nrp": "5015221153",
+            "name": "Nathania Khairun Nisa"
+        },
+        {
+            "nrp": "5015221155",
+            "name": "Zalfa Zahira Saptono"
+        },
+        {
+            "nrp": "5015221156",
+            "name": "Akhmad Ibnu Rizal"
+        },
+        {
+            "nrp": "5015221157",
+            "name": "Faiza Tridyani"
+        },
+        {
+            "nrp": "5015221158",
+            "name": "Kresna Zuqnii Fahman"
+        },
+        {
+            "nrp": "5015221159",
+            "name": "Akbar Fakhri Rahman"
+        },
+        {
+            "nrp": "5015221160",
+            "name": "Adithia Mahatva Yudha"
+        },
+        {
+            "nrp": "5015221161",
+            "name": "Ahmad Syauqi Zulfauzi"
+        },
+        {
+            "nrp": "5015221162",
+            "name": "Muhammad Daffa Malayunda"
+        },
+        {
+            "nrp": "5015221163",
+            "name": "Andhika Sultan Mohammad Athallah"
+        },
+        {
+            "nrp": "5015221164",
+            "name": "Ananta Dwika Rahmandy"
+        },
+        {
+            "nrp": "5015221165",
+            "name": "Mochammad Rafi Rooswanaji"
+        },
+        {
+            "nrp": "5015221166",
+            "name": "Krisna Pradipta Ghassani"
+        },
+        {
+            "nrp": "5015221167",
+            "name": "Khalisha Salsabila"
+        },
+        {
+            "nrp": "5015221168",
+            "name": "Mochamad Rizqi Mubarok"
+        },
+        {
+            "nrp": "5015221169",
+            "name": "Khansa Khalisha Renggana"
+        },
+        {
+            "nrp": "5015221170",
+            "name": "Fernanda Reihan Fadhil"
+        },
+        {
+            "nrp": "5015221171",
+            "name": "Dzaki Irfan Fawwaz"
+        },
+        {
+            "nrp": "5015221172",
+            "name": "Muhammad Romi Rahardian"
+        },
+        {
+            "nrp": "5015221173",
+            "name": "Putri Amirotun Nabilah"
+        }
+    ]
+}
